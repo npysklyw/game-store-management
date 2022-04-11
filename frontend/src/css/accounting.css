@@ -1,0 +1,41 @@
+#video1 {
+    visibility: hidden;
+}
+
+#video2 {
+    visibility: hidden;
+}
+
+
+#accounting-game-year{
+    margin-top: 2.5vw;
+    margin-left: 2.5vw;
+
+    padding: 1vw;
+    
+    border:2px solid black;
+
+}
+
+#accounting-branch-year{
+    margin-top: 2.5vw;
+    margin-left: 2.5vw;
+
+    padding: 1vw;
+    
+    border:2px solid black;
+
+}
+
+#accounting-g-ad-branch{
+    margin-top: 2.5vw;
+    margin-left: 2.5vw;
+
+    padding: 1vw;
+    
+    border:2px solid black;
+
+}
+#account-data1{
+    margin-top: 8vh;
+}

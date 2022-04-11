@@ -1,0 +1,28 @@
+#view{
+    height: 100vh;
+}
+
+#view-topselling{
+    margin-top: 2.5vw;
+    margin-left: 2.5vw;
+    /* background-color: rgb(211, 211, 211); */
+/* 
+    width: 20vw;
+    height: 20vw; */
+    padding: 1vw;
+    width: 70vw;
+    border:2px solid black;
+}
+
+#view-games-genre{
+    margin-top: 2.5vw;
+    margin-left: 2.5vw;
+    width: 70vw;
+    /* background-color: rgb(211, 211, 211); */
+/* 
+    width: 20vw;
+    height: 20vw; */
+    padding: 1vw;
+    
+    border:2px solid black;
+}

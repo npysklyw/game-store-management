@@ -1,0 +1,47 @@
+#insert-page{
+    height: 100vh;
+}
+
+#insert-functions{
+    margin-top: 2.5vw;
+    margin-left: 2.5vw;
+    background-color: rgb(211, 211, 211);
+
+    width: 20vw;
+    height: 5vw;
+    padding: 1vw;
+    
+    border:2px solid black;
+}
+#insert-advert{
+    margin-top: 2.5vw;
+    margin-left: 2.5vw;
+    /* background-color: rgb(211, 211, 211); */
+/* 
+    width: 20vw;
+    height: 20vw; */
+    padding: 1vw;
+    
+    border:2px solid black;
+}
+#insert-employee{
+    margin-top: 2.5vw;
+    margin-left: 2.5vw;
+    /* background-color: rgb(211, 211, 211); */
+
+    padding: 1vw;
+    
+    border:2px solid black;
+}
+
+#insert-videoStock{
+    margin-top: 2.5vw;
+    margin-left: 2.5vw;
+    /* background-color: rgb(211, 211, 211); */
+
+    width: 20vw;
+    height: 20vw;
+    padding: 1vw;
+    
+    border:2px solid black;
+}
