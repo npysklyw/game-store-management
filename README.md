@@ -1,2 +1,2 @@
-# 3309-Assignment4
+# Game Store Management Tool
  3309 Assignment
