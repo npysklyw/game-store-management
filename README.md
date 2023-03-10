@@ -1,2 +1,8 @@
 # Game Store Management Tool
- 3309 Assignment
+
+Developed as final project for database course at Western University.
+
+Includes all parts of an applciation:
+- Frontend interface (react.js)
+- Backend (node.js)
+- SQL Database (MySQL)
